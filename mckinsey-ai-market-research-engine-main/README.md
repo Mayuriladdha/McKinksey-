@@ -2116,8 +2116,6 @@ Name : Swapnil Sudhakar Pathare
 
 ---
 # Team
-- Swapnil Pathare 
-- Archana singh
 - Mayuri Laddha
 
 ## 📄 License
