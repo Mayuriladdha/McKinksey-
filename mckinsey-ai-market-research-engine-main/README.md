@@ -2102,18 +2102,6 @@ That separation is the main architectural idea behind the project.
 
 **McKinsey AI Market Research & Strategy Engine**
 
-GitHub:
-
-https://github.com/Swapnil1999-hey/mckinsey-ai-market-research-engine
-
-Live frontend:
-
-https://mckinsey-ai-market-research-engine.vercel.app/
-
-Demo video :
-
-Name : Swapnil Sudhakar Pathare 
-
 ---
 # Team
 - Mayuri Laddha
